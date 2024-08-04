@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "470481420965",
+    "project_id": "linkyou-fd0c2",
+    "storage_bucket": "linkyou-fd0c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470481420965:android:d90d079bc1c4842f1d834c",
+        "android_client_info": {
+          "package_name": "com.example.linkyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470481420965-cnee4aau05s09t8lh9mb3lj3apqct6op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.linkyou",
+            "certificate_hash": "dd1f8f829eeb87ea6f440e3137698fa8750a3181"
+          }
+        },
+        {
+          "client_id": "470481420965-ikngt4bnvtepdub17fq3660tna8627a1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKIuI20QC6QoNBfwk7J5V9a2CcapoQmzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470481420965-ikngt4bnvtepdub17fq3660tna8627a1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "470481420965-9uov6831h1tb0t0u6et1psm7rgrhj4ov.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.linkyou"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
